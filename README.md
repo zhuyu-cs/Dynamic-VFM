@@ -40,7 +40,7 @@ python Ensemble_func_OODTrack.py
 python single_model_mainTrack.py
 python single_model_OODTrack.py
 ```
-We provide [pretrained weight](https://drive.google.com/file/d/1-tNef-cT4qlihTw0G1jKib4PUyr3iBlE/view?usp=drive_link).
+We provide all the [pretrained weight](https://drive.google.com/file/d/1-tNef-cT4qlihTw0G1jKib4PUyr3iBlE/view?usp=drive_link).
 
 Note: the inference needs 8 2080Ti GPUs, it would takes about 2-3 hours for single model. 
 
