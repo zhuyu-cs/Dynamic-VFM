@@ -22,7 +22,7 @@ Note: please restrictly follow this environment, otherwise the results can not b
 ```
 python train.py config/neuroencoding.py
 ```
-Note: the training needs 8 2080Ti GPUs with the batch size 32, it would takes about 1-1.5days for single model training. We load all the data to the memory for speeding up training, which requires at least 256GB memory.
+Note: the training needs 8 2080Ti GPUs with the batch size 32, it would take about 1-1.5days for single model training. We load all the data to the memory for speeding up training, which requires at least 256GB memory.
 
 ### Generate the submission results.
 Please go to the folder ```submission_func```.
@@ -42,7 +42,7 @@ python single_model_OODTrack.py
 ```
 We provide all the [pretrained weight](https://drive.google.com/file/d/1-tNef-cT4qlihTw0G1jKib4PUyr3iBlE/view?usp=drive_link).
 
-Note: the inference needs 8 2080Ti GPUs, it would takes about 2-3 hours for single model. 
+Note: the inference needs 8 2080Ti GPUs, it would take about 2-3 hours for single model. 
 
 
 ### References
